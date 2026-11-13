@@ -1,0 +1,6 @@
+{
+  "name": "License Premium - Key Generator",
+  "description": "Generate and manage customer license keys across software products and validity tiers on a secured reseller platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
